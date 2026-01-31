@@ -180,7 +180,7 @@ Potential extensions include:
 
 ---
 
-## Repository Structure (example)
+## Repository Structure
 
 ```text
 .
